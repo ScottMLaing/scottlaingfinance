@@ -1,8 +1,9 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "scottlaingfinance"
+  title: "Scott Laing, Finance"
   navbar:
     left:
       - href: index.qmd
@@ -11,7 +12,9 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme: 
+      light: minty
+      dark: slate
     css: styles.css
     toc: true
 

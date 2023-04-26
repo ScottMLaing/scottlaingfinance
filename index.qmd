@@ -1,5 +1,10 @@
 ---
 title: "scottlaingfinance"
+image: selfie.jpg
+about: 
+  template: trestles
+  image-shape: rounded
+  image-width: 15em
 ---
 
 This is a Quarto website.
