@@ -2,8 +2,12 @@
 title: "About"
 ---
 
-About this site
+## Hello there!
 
-```{r}
-1 + 1
-```
+I'm Scott Laing. I'm currently an Adjunct Professor at the [University at Buffalo School of Management](https://management.buffalo.edu/) as well as a Finance PhD Candidate (ABD). I have a strong passion for education and teaching, particularly with my Financial Modeling course, a course I have had the incredible opportunity to build out, showcasing all the incredible tools RStudio (Posit) and the Financial world has to offer.
+
+My research interests lie primarily in Sustainable Investing and ESG Research (Environmental Social Governance) and observing the real impact of Governmental Policy decisions at the firm and environmental level.
+
+When I'm not working on Research or Teaching, I try to create educational content in the areas of Data Science, Microsoft Office, Excel, R/RStudio, Python, and overall Finance concepts as well. I try to make learning dynamic and engaging, as well as cutting edge to the latest innovations these software's obtain.
+
+Beyond the classroom and my research - I have a passion for traveling and seeing new cities, trying new cuisine, and seeing what the world has to offer. I happily start each day with a Peloton spin class (\@scottmlaing) and in my moments of free time I enjoy using Metacritic to stay on top of film, tv, and music cultural zeitgeist. My latest goals are learning another language (Chinese, Japanese, and ASL are my goals!), building Sustainability related courses, and building my career with conference visits.

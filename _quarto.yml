@@ -9,12 +9,18 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      - teaching.qmd
+      - research.qmd
+      - href: CV_Summer23.pdf
+        text: CV
+      - href: https://youtube.com/@scottlaingfinance
+        text: YouTube
 
 format:
   html:
     theme: 
-      light: minty
-      dark: slate
+      light: flatly
+      dark: darkly
     css: styles.css
     toc: true
 

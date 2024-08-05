@@ -1,16 +1,65 @@
 ---
-title: "scottlaingfinance"
+title: "Scott Laing, PhD Finance (ABD)"
 image: selfie.jpg
 about: 
   template: trestles
   image-shape: rounded
   image-width: 15em
+  links: 
+    - icon: linkedin 
+      text: LinkedIn
+      href: https://www.linkedin.com/in/scottmlaing/
+    - icon: twitter 
+      text: Twitter
+      href: https://twitter.com/scottmlaing
+    - icon: envelope 
+      text: Email
+      href: mailto:scottlai@buffalo.edu
+    - icon: youtube 
+      text: YouTube
+      href: https://youtube.com/@scottlaingfinance
 ---
 
-This is a Quarto website.
+<!--# Intro -->
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+<p class="topbr">
 
-```{r}
-1 + 1
-```
+# Greetings!
+
+I'm Scott Laing. I'm currently an Adjunct Professor at the [University at Buffalo School of Management](https://management.buffalo.edu/) and Finance PhD Candidate (ABD). I've taught a large number of Finance and Economics courses, and have created a Financial Modeling course featured in the MS/MBA Finance program which is a crash course for students into the world of R/RStudio. My research interests lie primarily in Sustainable Investing and ESG Research (Environmental Social Governance) and observing the real impact of Governmental Policy decisions at the firm and environmental level. Additionally I have a strong passion for the Data Science (Data Modeling) communities, including creating free Technical Skills courses on my YouTube Channel.
+
+</p>
+
+# Education
+
+<!--# Education -->
+
+-   PhD Finance (ABD), University at Buffalo
+
+    -   Research Interests: Sustainability, ESG, Textual Analysis, Asset Pricing, Government Policy Decisions
+
+-   MS Finance, University at Buffalo
+
+    -   Concentrations in both Financial Management and Quantitative Finance
+
+-   BS (Double Major) in Business Administration (Finance) and Mathematics (Actuarial Mathematics)
+
+    -   Minors in Statistics, Economics, and Computer Science
+
+# Teaching Experience/Interests
+
+Finance Focused:
+
+-   Corporate Finance, Financial Modeling, Derivatives, Investments, Fixed Income, Portfolio Theory, CFA Exam Prep, Green Finance, Discounted Cash Flow Valuations, Equity Valuations
+
+Data Science / Programming
+
+-   R/RStudio, Python, Data Modeling, Microsoft Excel, Power Pivot / Power Query, Microsoft BI, Data Analytics, Time Series Modeling, Forecasting, Statistics, Excel Macros, Machine Learning, Dashboards, Shiny/Quarto/Markdown
+
+Economics Focused:
+
+-   Applied Economics, Microeconomics, Macroeconomics
+
+Sustainability Focused:
+
+-   Sustainable Finance via Indigenous Culture

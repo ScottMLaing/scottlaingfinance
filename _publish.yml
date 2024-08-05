@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: 0ec00630-81d8-429b-8eef-7e97d36a3df1
+      url: 'https://www.scottlaingfinance.com'

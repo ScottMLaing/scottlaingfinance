@@ -1,0 +1,30 @@
+---
+title: "class test"
+output:
+  word_document: default
+  html_document: default
+date: "2023-10-04"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(tidyquant)
+library(simfinapi)
+library(gt)
+library(tidyverse)
+```
+
+```{r}
+AMZN <- tq_get("AMZN", from = "2022-01-01", to = "2022-12-31")
+AMZN
+```
+
+```{r}
+AMZN %>%
+    ggplot(aes(x = date, y = volume)) +
+    geom_segment(aes(xend = date, yend = 0, color = volume)) + 
+    geom_smooth(method = "loess", se = FALSE)
+```
